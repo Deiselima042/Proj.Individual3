@@ -1,0 +1,114 @@
+{
+  "empregados": [
+    {
+      "id": 1,
+      "nome": "Bia Santos",
+      "cpf": "123.251.456-55",
+      "salario": "2000",
+      "ano_de_contratação": "2016"
+    },
+    {
+      "id": 2,
+      "nome": "Carol Amanda",
+      "cpf": "156.381.466-33",
+      "salario": "6000",
+      "ano_de_contratação": "2021"
+    },
+    {
+      "id": 3,
+      "nome": "Fabiano Silva",
+      "cpf": "503.365.988-651",
+      "salario": "1500",
+      "ano_de_contratação": "2019"
+    },
+    {
+      "id": 4,
+      "nome": "Maria Jose",
+      "cpf": "033.563.321-14",
+      "salario": "2100",
+      "ano_de_contratação": "2020"
+    }
+  ],
+  "inquilino": [
+    {
+      "id": 1,
+      "nome": "Caio Pereira",
+      "imovel": 1,
+      "aluguel": "1200",
+      "idade": "36"
+    },
+    {
+      "id": 2,
+      "nome": "Luiz Santos",
+      "imovel": 3,
+      "aluguel": "600",
+      "idade": "28"
+    },
+    {
+      "id": 3,
+      "nome": "Maria Gabriella",
+      "imovel": 2,
+      "aluguel": "1500",
+      "idade": "39"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Claudia",
+      "imovel": 2,
+      "aluguel": "1900",
+      "idade": "49"
+    }
+  ],
+  "imovel": [
+    {
+      "id": 1,
+      "valor_aluguel": "1800",
+      "vagas_garagem": "3",
+      "quartos": "2",
+      "banheiros": "2"
+    },
+    {
+      "id": 2,
+      "valor_aluguel": "800",
+      "vagas_garagem": "1",
+      "quartos": "1",
+      "banheiros": "1"
+    },
+    {
+      "id": 3,
+      "valor_aluguel": "2300",
+      "vagas_garagem": "4",
+      "quartos": "3",
+      "banheiros": "3"
+    },
+    {
+      "id": 4,
+      "valor_aluguel": "2000",
+      "vagas_garagem": "3",
+      "quartos": "2",
+      "banheiros": "3"
+    }
+  ],
+  "sítio": [
+    {
+      "valor_aluguel": "13000",
+      "vagas_garagem": "4",
+      "quartos": "6",
+      "piscinas": "2",
+      "churrasqueiras": "1",
+      "banheiros": "4"
+    }
+  ],
+  "apartamentos": [
+    {
+      "valor_aluguel": "3600",
+      "vagas_garagem": "6",
+      "quartos": "5",
+      "piscinas": "2",
+      "churrasqueiras": "2",
+      "banheiros": "4",
+      "iptu": "400",
+      "metros": "44m²"
+    }
+  ]
+}
